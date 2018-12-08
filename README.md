@@ -1,0 +1,2 @@
+# BitSwarm
+Cryptocurrency Trading Engine
